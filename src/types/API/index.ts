@@ -1,0 +1,1 @@
+export type { ResponceAxiosType } from './APITypes'

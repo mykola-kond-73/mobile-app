@@ -1,0 +1,6 @@
+export { Footer } from "./Footer/Footer"
+export { Header } from "./Header/Header"
+export { ButtonMore } from "./ButtonMore/ButtonMore"
+export { List } from "./List/List"
+export { PhotoCard } from "./PhotoCard/PhotoCard"
+export { Load } from "./Load/Load"
